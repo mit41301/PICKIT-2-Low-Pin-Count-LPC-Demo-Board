@@ -23,3 +23,19 @@ It will also be necessary to construct a cable to connect
 the 6-pin PICkit 2 ICSP connector to the RJ-11 ICD connector
 on the Header Interface.  Optionally, the AC164110 - "RJ-11
 to ICSP Adapter" may be used instead.
+
+For a list of supported devices, see the LPC Demo Board README file on the PICkit™ 2  
+Starter Kit CD-ROM.  
+8-pin DIP Flash Devices:  
+
+PIC12F508 PIC12F629 PIC12F635  
+PIC12F509 PIC12F675 PIC12F683  
+PIC12F510  
+14-pin DIP Flash Devices:  
+
+PIC16F505 PIC16F630 PIC16F684  
+PIC16F506 PIC16F676 PIC16F688  
+
+20-pin DIP Flash Devices:  
+PIC16F685 PIC16F689 PIC16F785  
+PIC16F687 PIC16F690  
